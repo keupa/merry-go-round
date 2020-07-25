@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/merry-go-round/static/css/main.62a46526.chunk.css",
+    "main.js": "/merry-go-round/static/js/main.c30069cf.chunk.js",
+    "main.js.map": "/merry-go-round/static/js/main.c30069cf.chunk.js.map",
+    "runtime-main.js": "/merry-go-round/static/js/runtime-main.53bf17a9.js",
+    "runtime-main.js.map": "/merry-go-round/static/js/runtime-main.53bf17a9.js.map",
+    "static/js/2.9b8569e7.chunk.js": "/merry-go-round/static/js/2.9b8569e7.chunk.js",
+    "static/js/2.9b8569e7.chunk.js.map": "/merry-go-round/static/js/2.9b8569e7.chunk.js.map",
+    "index.html": "/merry-go-round/index.html",
+    "precache-manifest.2075c81ae2926fbc547a08a8947122e1.js": "/merry-go-round/precache-manifest.2075c81ae2926fbc547a08a8947122e1.js",
+    "service-worker.js": "/merry-go-round/service-worker.js",
+    "static/css/main.62a46526.chunk.css.map": "/merry-go-round/static/css/main.62a46526.chunk.css.map",
+    "static/js/2.9b8569e7.chunk.js.LICENSE.txt": "/merry-go-round/static/js/2.9b8569e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53bf17a9.js",
+    "static/js/2.9b8569e7.chunk.js",
+    "static/css/main.62a46526.chunk.css",
+    "static/js/main.c30069cf.chunk.js"
+  ]
+}
